@@ -15,7 +15,7 @@
 | Game versions | 26.2 |
 | Dependencies | Create Fly (required), Fabric API (required) |
 | Icon | `icon.png` in this folder: the compass on the cubealgos navy badge (`just icon` regenerates it) |
-| Links | Source `https://github.com/cubealgos-mods/create_brass_compass` · Issues `https://github.com/cubealgos-mods/create_brass_compass/issues` |
+| Links | Source `https://github.com/kevinscheeren-mods/create_brass_compass` · Issues `https://github.com/kevinscheeren-mods/create_brass_compass/issues` |
 
 ## Version settings
 
@@ -58,4 +58,4 @@ Minecraft 26.2, Fabric Loader 0.19.5 or newer, Fabric API 0.160.0 or newer, and 
 
 ### Support
 
-Through the issue tracker only (https://github.com/cubealgos-mods/create_brass_compass/issues), as time allows. Source on GitHub. Include your Minecraft, Fabric and Create Fly versions, the mod version from the jar name, and the steps that show the problem. MIT licensed.
+Through the issue tracker only (https://github.com/kevinscheeren-mods/create_brass_compass/issues), as time allows. Source on GitHub. Include your Minecraft, Fabric and Create Fly versions, the mod version from the jar name, and the steps that show the problem. MIT licensed.

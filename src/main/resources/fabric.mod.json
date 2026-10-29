@@ -5,12 +5,12 @@
   "name": "Create Fly: Brass Compass",
   "description": "A brass compass that remembers every lodestone it has been shown and points at the one you choose.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/brass-compass",
-    "sources": "https://github.com/cubealgos-mods/create_brass_compass",
-    "issues": "https://github.com/cubealgos-mods/create_brass_compass/issues"
+    "sources": "https://github.com/kevinscheeren-mods/create_brass_compass",
+    "issues": "https://github.com/kevinscheeren-mods/create_brass_compass/issues"
   },
   "license": "MIT",
   "environment": "*",
