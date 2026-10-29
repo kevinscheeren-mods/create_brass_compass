@@ -7,9 +7,9 @@ Sneak to use the compass as if it were not there.
 Requires Minecraft 26.2, Fabric Loader, Fabric API and Create Fly. MIT (LICENSE); credits in NOTICE.
 Releases carry the jar and its SHA-256 in the notes; see CHANGELOG.md for what each version holds.
 
-Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/cubealgos-mods/create_brass_compass/issues.
+Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/kevinscheeren-mods/create_brass_compass/issues.
 
-Source: https://github.com/cubealgos-mods/create_brass_compass.
+Source: https://github.com/kevinscheeren-mods/create_brass_compass.
 Releases: https://modrinth.com/mod/brass-compass.
 
 Development: `just --list`. The specification is `docs/spec/`.
